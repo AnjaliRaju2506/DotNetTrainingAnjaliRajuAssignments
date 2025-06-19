@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumbersUsingForLoop", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorFunction", "CalculatorFunction2\CalculatorFunction.csproj", "{ABC9DDB0-9921-4715-A17A-68BCBE5ADABB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "June18", "June18", "{D97F37D1-286D-4650-B81D-9BC6124CCB91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericListOfTechnologies", "GenericListOfTechnologies1\GenericListOfTechnologies.csproj", "{4DE9DB14-FE04-484A-9229-0A90F6063B26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +83,10 @@ Global
 		{ABC9DDB0-9921-4715-A17A-68BCBE5ADABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABC9DDB0-9921-4715-A17A-68BCBE5ADABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABC9DDB0-9921-4715-A17A-68BCBE5ADABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE9DB14-FE04-484A-9229-0A90F6063B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE9DB14-FE04-484A-9229-0A90F6063B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE9DB14-FE04-484A-9229-0A90F6063B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE9DB14-FE04-484A-9229-0A90F6063B26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +103,7 @@ Global
 		{8449ECA6-ABC5-4B1B-9626-BF607C0151D4} = {429B8B88-D468-48F5-9759-51ADB1A69694}
 		{ECAA0755-438D-4B47-90A4-729CA4A887DD} = {429B8B88-D468-48F5-9759-51ADB1A69694}
 		{ABC9DDB0-9921-4715-A17A-68BCBE5ADABB} = {429B8B88-D468-48F5-9759-51ADB1A69694}
+		{4DE9DB14-FE04-484A-9229-0A90F6063B26} = {D97F37D1-286D-4650-B81D-9BC6124CCB91}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {445407FD-48BF-4E1B-8B1B-11E35AF5257C}
